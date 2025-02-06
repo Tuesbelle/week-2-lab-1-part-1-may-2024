@@ -32,11 +32,11 @@ A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG
 - [X] Update README author
 - [X] Create dogs.html
 - [X] Create an H1 tag in dogs.html
-- [ ] Create a P tag in dogs.html
-- [ ] Create an ARTICLE tag in dogs.html
-- [ ] Create an H2 and two P tags nested inside the ARTICLE tag
-- [ ] Make more HTML files on different topics (optional)
-- [ ] Commit and sync to Github
+- [X] Create a P tag in dogs.html
+- [X] Create an ARTICLE tag in dogs.html
+- [X] Create an H2 and two P tags nested inside the ARTICLE tag
+- [X] Make more HTML files on different topics (optional)
+- [X] Commit and sync to Github
 
 ### Bonus and Extension
 
